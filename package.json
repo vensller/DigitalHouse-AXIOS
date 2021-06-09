@@ -1,0 +1,23 @@
+{
+  "name": "digitalhouse-axios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vensller/DigitalHouse-AXIOS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vensller/DigitalHouse-AXIOS/issues"
+  },
+  "homepage": "https://github.com/vensller/DigitalHouse-AXIOS#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
